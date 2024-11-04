@@ -2,3 +2,7 @@ venv/
 .DS_Store
 .git/
 .vscode/
+.Image/
+.Report/
+.ouput1.png/
+.ouput2.png/
